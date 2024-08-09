@@ -1,0 +1,13 @@
+C:\Users\Art laptop\source\repos\IOTBox desktop App\IOTBox desktop App\bin\Debug\IOTBox desktop App.exe.config
+C:\Users\Art laptop\source\repos\IOTBox desktop App\IOTBox desktop App\bin\Debug\IOTBox desktop App.exe
+C:\Users\Art laptop\source\repos\IOTBox desktop App\IOTBox desktop App\bin\Debug\IOTBox desktop App.pdb
+C:\Users\Art laptop\source\repos\IOTBox desktop App\IOTBox desktop App\bin\Debug\M2Mqtt.Net.dll
+C:\Users\Art laptop\source\repos\IOTBox desktop App\IOTBox desktop App\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\Art laptop\source\repos\IOTBox desktop App\IOTBox desktop App\obj\Debug\IOTBox desktop App.csproj.AssemblyReference.cache
+C:\Users\Art laptop\source\repos\IOTBox desktop App\IOTBox desktop App\obj\Debug\IOTBox_desktop_App.Form1.resources
+C:\Users\Art laptop\source\repos\IOTBox desktop App\IOTBox desktop App\obj\Debug\IOTBox_desktop_App.Properties.Resources.resources
+C:\Users\Art laptop\source\repos\IOTBox desktop App\IOTBox desktop App\obj\Debug\IOTBox desktop App.csproj.GenerateResource.cache
+C:\Users\Art laptop\source\repos\IOTBox desktop App\IOTBox desktop App\obj\Debug\IOTBox desktop App.csproj.CoreCompileInputs.cache
+C:\Users\Art laptop\source\repos\IOTBox desktop App\IOTBox desktop App\obj\Debug\IOTBox desktop App.csproj.CopyComplete
+C:\Users\Art laptop\source\repos\IOTBox desktop App\IOTBox desktop App\obj\Debug\IOTBox desktop App.exe
+C:\Users\Art laptop\source\repos\IOTBox desktop App\IOTBox desktop App\obj\Debug\IOTBox desktop App.pdb

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Mqtt Server Setup</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <div class="topnav">
+    <h1>Mqtt connection setup via Wifi</h1>
+  </div>
+  <div class="content">
+    <div class="card-grid">
+      <div class="card">
+        <form action="/" method="POST">
+          <p>
+            <label for="ssid">SSID</label>
+            <input type="text" id ="ssid" name="ssid" required><br>
+            <label for="pass">Password</label>
+            <input type="text" id ="pass" name="pass" required><br>
+            <label for="mqtt_server">Mqtt Server</label>
+            <input type="text" id ="mqtt_server" name="mqtt_server" required value=""><br>
+            <label for="mqtt_port">Mqtt Port</label>
+            <input type="text" id ="mqtt_port" name="mqtt_port" value="8883" required><br>
+            <label for="mqtt_usernam">Mqtt Username</label>
+            <input type="text" id ="mqtt_usernam" name="mqtt_usernam" value="" required><br>
+            <label for="mqtt_password">Mqtt password</label>
+            <input type="text" id ="mqtt_password" name="mqtt_password" value="" required><br>
+
+            <input type ="submit" value ="Submit">
+          </p>
+        </form>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
