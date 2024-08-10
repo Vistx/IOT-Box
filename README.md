@@ -87,11 +87,17 @@ Setup IoT MQTT Panel app
 
 ![app setup1](https://github.com/user-attachments/assets/be0d8c54-cc70-4854-8053-91dab02cea9b)
 
+### Broker address(Use HiveMq credentials), username, password ,port(8883),protocol(TSL)
+
 ![app setup2](https://github.com/user-attachments/assets/270ebdd8-6d8b-4ac6-a32d-6b568397c2f7)
 
 ![app setup3](https://github.com/user-attachments/assets/c89d501e-42fb-46ca-82be-defc0ef61282)
 
+###Setup button for IR codes
+
 ![app setup4](https://github.com/user-attachments/assets/599b934d-e250-42c4-a25e-9acc49e391f2)
+
+### Toggle Switch For relay controll 4 in toal (topics -> DO_1,DO_2,DO_3,DO_4)
 
 ![app setup5](https://github.com/user-attachments/assets/67699eb4-ef10-46d2-8b89-e6a1eff38679)
 
@@ -99,7 +105,7 @@ Setup IoT MQTT Panel app
 
 ![app setup 7](https://github.com/user-attachments/assets/d31918a4-ccf3-4cb7-8b4d-b24c943f6a1f)
 
-
+### Three gauges for gas, humidity and temperature topics 
 
 
 ## Tweaking the design
