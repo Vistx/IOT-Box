@@ -168,6 +168,7 @@ Parts used:
 
 ![electronics5](https://github.com/user-attachments/assets/9755c0be-b226-432a-9bfd-195fb67ff83c)
 
+![final result](https://github.com/user-attachments/assets/14da69e6-eabf-46aa-b0d4-260fb29ebc40)
 
 
 
