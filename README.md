@@ -34,6 +34,8 @@ This project provides comprehensive functionality for an IoT device using ESP32.
 
 **Important!** The first code uploaded to the board must be done via Serial connection , after you setup the parameters in the user setup page the code can be uploaded via OTA. You can find the devices IP address in your router .
 
+
+
 ![lan users ota edited](https://github.com/user-attachments/assets/001f6988-c398-411f-812a-6701829a38fa)
 
 
@@ -80,6 +82,23 @@ I use this app
 ![unnamed](https://github.com/user-attachments/assets/6cbdfe8b-13e0-40a3-bc46-6035e632f48a)
 
 Setup IoT MQTT Panel app
+
+![app setup](https://github.com/user-attachments/assets/e094f885-a7b2-48a8-8977-085e7d61807c)
+
+![app setup1](https://github.com/user-attachments/assets/be0d8c54-cc70-4854-8053-91dab02cea9b)
+
+![app setup2](https://github.com/user-attachments/assets/270ebdd8-6d8b-4ac6-a32d-6b568397c2f7)
+
+![app setup3](https://github.com/user-attachments/assets/c89d501e-42fb-46ca-82be-defc0ef61282)
+
+![app setup4](https://github.com/user-attachments/assets/599b934d-e250-42c4-a25e-9acc49e391f2)
+
+![app setup5](https://github.com/user-attachments/assets/67699eb4-ef10-46d2-8b89-e6a1eff38679)
+
+![app setup6](https://github.com/user-attachments/assets/85ea0783-f35f-46e6-b2e4-a28cd48ce121)
+
+![app setup 7](https://github.com/user-attachments/assets/d31918a4-ccf3-4cb7-8b4d-b24c943f6a1f)
+
 
 
 
