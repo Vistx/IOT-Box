@@ -23,17 +23,33 @@ This project provides comprehensive functionality for an IoT device using ESP32.
 - git clone https://github.com/username/repo.git
 - go to project tasks  
    1. First : Build Filesystem Image   
-   3. Then: Upload Filesystem Image
-  [img]
+   2. Then: Upload Filesystem Image
+  ![1](https://github.com/user-attachments/assets/429ac1e1-7675-42f1-81b2-c67eea4b3313)
+
 - Upload the code to your esp32
-  [img]
-**Important!** The first code uploaded to the board must be done via Serial connection , after you setup the parameters in the user setup page the code can be uploaded via OTA.
+ ![2](https://github.com/user-attachments/assets/6afe996c-2f75-4429-bfd5-66e8d29e7e84)
+
+**Important!** The first code uploaded to the board must be done via Serial connection , after you setup the parameters in the user setup page the code can be uploaded via OTA. You can find the devices IP address in your router .
+
+![lan users ota edited](https://github.com/user-attachments/assets/001f6988-c398-411f-812a-6701829a38fa)
 
 
 ## Broker Setup
-This project uses HiveMQ as a broker , create an account [here](https://www.hivemq.com/) . The next step is to got to **Clusters**,  in the top right corner **Create New Cluster** and **Create a Serverless Cluster**.
+This project uses HiveMQ as a broker , create an account [here](https://www.hivemq.com/) . The next step is to got to **Clusters**,  in the top right corner **Create New Cluster** 
 
-After creating a Cluster enter **Manage Cluster**  page then go to **Access Management**  and create **Credentials** to connect to that cluster. 
+![cluster1edited](https://github.com/user-attachments/assets/565701f5-91bf-49c7-920d-2060af4c1ac9)
+
+and **Create a Serverless Cluster**.
+
+![cluster2edited](https://github.com/user-attachments/assets/ba1d5a5b-b6cd-46c0-ba15-9fd50135dda7)
+
+After creating a Cluster enter **Manage Cluster**  page 
+
+![cluster3edited](https://github.com/user-attachments/assets/c3bd256d-bbcb-46c9-9281-87dfeb4d17ab)
+
+then go to **Access Management**  and create **Credentials** to connect to that cluster. 
+
+![cluster4edited](https://github.com/user-attachments/assets/aebe92c6-78a5-4a4d-ab51-0c181dd55722)
 
 **Important:** Give publish subscribe permissions to the created user.
 
