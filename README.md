@@ -14,9 +14,9 @@ This project provides comprehensive functionality for an IoT device using ESP32.
 
 ## Table of Contents
 - [Installation](#installation) 
-- [Broker Setup](#broker setup)
+- [Broker Setup](#broker-setup)
 - [Usage](#usage) 
-- Tweaking the design
+- [Tweaking the design](#tweaking-the-design)
 - Electronics 
 
 ## Installation
@@ -32,7 +32,7 @@ This project provides comprehensive functionality for an IoT device using ESP32.
 
 ![2](https://github.com/user-attachments/assets/6afe996c-2f75-4429-bfd5-66e8d29e7e84)
 
-**Important!** The first code uploaded to the board must be done via Serial connection , after you setup the parameters in the user setup page the code can be uploaded via OTA. You can find the devices IP address in your router .
+**Important!** The first code uploaded to the board must be done via Serial connection , after you setup the parameters in the user setup page the code can be uploaded via OTA. You can find the devices IP address in your router, after the first upload via serial change the  upload_port = ip_here in platform.ini file .
 
 
 
