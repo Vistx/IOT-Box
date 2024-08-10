@@ -81,6 +81,8 @@ I use this app
 
 Setup IoT MQTT Panel app
 
+
+
 ## Tweaking the design
 Drill a small hole to access the reset button on your PCB like so:
 
