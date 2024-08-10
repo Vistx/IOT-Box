@@ -75,7 +75,9 @@ Windows :
 
 Android / IOS:
 
- image here
+I use this app 
+
+![unnamed](https://github.com/user-attachments/assets/6cbdfe8b-13e0-40a3-bc46-6035e632f48a)
 
 Setup IoT MQTT Panel app
 
@@ -154,9 +156,5 @@ You can find Fusion 360 Files [here](https://grabcad.com/library/iot-box-1)
 # References
 
 https://randomnerdtutorials.com/
-
-
-
-# Image References
 
 https://www.svgrepo.com/
