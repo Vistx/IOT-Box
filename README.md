@@ -17,7 +17,8 @@ This project provides comprehensive functionality for an IoT device using ESP32.
 - [Broker Setup](#broker-setup)
 - [Usage](#usage) 
 - [Tweaking the design](#tweaking-the-design)
-- Electronics 
+- [Electronics](#electronics)
+- [Cad files and 3d printing](#cad-files-and-3d-printing)
 
 ## Installation
 ### Clone the repository 
