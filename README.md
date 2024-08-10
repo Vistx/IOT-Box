@@ -21,8 +21,8 @@ This project provides comprehensive functionality for an IoT device using ESP32.
 
 ## Installation
 ### Clone the repository 
-- git clone https://github.com/username/repo.git
-- go to project tasks  
+- git clone https://github.com/Vistx/IOT-Box.git
+- go to project /IOT Box tasks  
    1. First : Build Filesystem Image   
    2. Then: Upload Filesystem Image
   
@@ -149,3 +149,14 @@ You can find Fusion 360 Files [here](https://grabcad.com/library/iot-box-1)
 
 ![WhatsAppVideo2024-08-09at21 44 25-ezgif com-optimize](https://github.com/user-attachments/assets/5803e229-8ab7-4975-bde8-f0c72147a524)
 
+
+
+# References
+
+https://randomnerdtutorials.com/
+
+
+
+# Image References
+
+https://www.svgrepo.com/
