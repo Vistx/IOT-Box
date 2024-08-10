@@ -8,6 +8,7 @@
 ## Description 
 This project provides comprehensive functionality for an IoT device using ESP32. It supports Wi-Fi and MQTT for communication, has an asynchronous web server with webpage  for configuration, handles OTA updates, reads sensor data, and controls relays and IR devices. The use of preferences and SPIFFS ensures that configuration data is stored persistently across reboots. Additionally MQTT protocol makes this device accesible on all platforms such as Windows , Linux, IOS ,Android etc.  using the publisher and subscriber model .
 
+
 ![IOT Box  #description v2](https://github.com/user-attachments/assets/e7b0b889-9802-41d5-9a73-dbc6fbc75ecc)
 
 
@@ -24,10 +25,12 @@ This project provides comprehensive functionality for an IoT device using ESP32.
 - go to project tasks  
    1. First : Build Filesystem Image   
    2. Then: Upload Filesystem Image
+  
   ![1](https://github.com/user-attachments/assets/429ac1e1-7675-42f1-81b2-c67eea4b3313)
 
 - Upload the code to your esp32
- ![2](https://github.com/user-attachments/assets/6afe996c-2f75-4429-bfd5-66e8d29e7e84)
+
+![2](https://github.com/user-attachments/assets/6afe996c-2f75-4429-bfd5-66e8d29e7e84)
 
 **Important!** The first code uploaded to the board must be done via Serial connection , after you setup the parameters in the user setup page the code can be uploaded via OTA. You can find the devices IP address in your router .
 
@@ -59,13 +62,19 @@ then go to **Access Management**  and create **Credentials** to connect to that 
 Connect to the "Setup IOT Box" access point 
 Open your browser and  follow the url:  http://192.168.4.1/
 
-Image here
+![user setupedited](https://github.com/user-attachments/assets/0f44a2cf-59f3-4074-8688-7d5798ce3494)
+
 
 Provide Your Wifi and HiveMq Broker credentials 
 
 Windows :
-Image here
+
+![WINDOWSAPP1](https://github.com/user-attachments/assets/95ce6c4b-2ad7-4a09-8093-742ed96e31d4)
+
+
+
 Android / IOS:
+
  image here
 
 Setup IoT MQTT Panel app
@@ -73,25 +82,70 @@ Setup IoT MQTT Panel app
 ## Tweaking the design
 Drill a small hole to access the reset button on your PCB like so:
 
-img here 
+![hole drill](https://github.com/user-attachments/assets/250d82ad-56fd-41d5-9e2d-ced1d3bfbabb)
+
 
 This button resets your saved credentials and sends the device in setup mode.
 
 ##  Electronics
 Parts used:
+
 1x ESP-Wroom-32u
+
 1x MQ-4 sensor
+
 1x DHT 11
+
 4x Relay module
+
 1x IR transmitter and receiver module
+
 1x Antenna with mount
+
 1x Pair Male + Female 12v DC jack 
+
 1x Push button
+
 2x Switches
+
 1x Prototype PCB 6x8 breadboard
+
 3x Leds (Red,Yellow,Blue)
+
 3x Resistors 48 Ohm
+
+### Prototype PCB
+
+![schematics](https://github.com/user-attachments/assets/aa3639ba-ab77-4f25-8d04-51e43380cf9d)
+
+![PCB](https://github.com/user-attachments/assets/286e40b5-c8d3-4025-89c9-f41120a14d95)
+
+![pcb2](https://github.com/user-attachments/assets/c0c77f18-9a70-4a73-86ac-677280d3f414)
+
+
+
+
+### Assembly
+![electronics6](https://github.com/user-attachments/assets/72ad0518-fbf2-432c-a7fd-52cc6da0cedf)
+
+![electronics1](https://github.com/user-attachments/assets/ca0b776a-60ca-4361-b8f7-3ecc621fc05d)
+
+![electronics3](https://github.com/user-attachments/assets/6cf6b4d3-3533-4e64-bd61-c09888fd95b0)
+
+![eelectronics2](https://github.com/user-attachments/assets/2a79634b-bcd5-4a39-ab6a-4b76cdf1ce8a)
+
+![electronics4](https://github.com/user-attachments/assets/5d710371-8eaf-44c1-9398-f68911a04567)
+
+![electronics5](https://github.com/user-attachments/assets/9755c0be-b226-432a-9bfd-195fb67ff83c)
+
 
 
 
 # CAD files and 3D Printing
+
+You can find Fusion 360 Files [here](https://grabcad.com/library/iot-box-1)
+
+![WhatsAppVideo2024-08-09at21 43 57-ezgif com-optimize](https://github.com/user-attachments/assets/caf98319-e943-444f-a7df-6f3dad130119)
+
+![WhatsAppVideo2024-08-09at21 44 25-ezgif com-optimize](https://github.com/user-attachments/assets/5803e229-8ab7-4975-bde8-f0c72147a524)
+
