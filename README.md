@@ -93,7 +93,7 @@ Setup IoT MQTT Panel app
 
 ![app setup3](https://github.com/user-attachments/assets/c89d501e-42fb-46ca-82be-defc0ef61282)
 
-###Setup button for IR codes
+### Setup button for IR codes
 
 ![app setup4](https://github.com/user-attachments/assets/599b934d-e250-42c4-a25e-9acc49e391f2)
 
